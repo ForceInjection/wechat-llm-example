@@ -1,0 +1,2 @@
+from .download_article import get_article_content
+from .process_article import process_wechat_article
